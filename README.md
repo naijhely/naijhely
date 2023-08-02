@@ -11,6 +11,7 @@
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/naijhely/network-protocols)
 - <b>PowerShell</b>
 - <b>WireShark</b>
+  - [Wireshark Installation](https://github.com/naijhely/install-wireshark) 
 
 
 <h2>🤳Connect with me:</h2>
